@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/englishleaning2.0/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/englishleaning2.0/static/js/main.28b97cf8.chunk.js",
+    "main.js.map": "/englishleaning2.0/static/js/main.28b97cf8.chunk.js.map",
+    "runtime-main.js": "/englishleaning2.0/static/js/runtime-main.45b8f19f.js",
+    "runtime-main.js.map": "/englishleaning2.0/static/js/runtime-main.45b8f19f.js.map",
+    "static/js/2.cc368304.chunk.js": "/englishleaning2.0/static/js/2.cc368304.chunk.js",
+    "static/js/2.cc368304.chunk.js.map": "/englishleaning2.0/static/js/2.cc368304.chunk.js.map",
+    "static/js/3.50286de8.chunk.js": "/englishleaning2.0/static/js/3.50286de8.chunk.js",
+    "static/js/3.50286de8.chunk.js.map": "/englishleaning2.0/static/js/3.50286de8.chunk.js.map",
+    "index.html": "/englishleaning2.0/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/englishleaning2.0/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cc368304.chunk.js.LICENSE.txt": "/englishleaning2.0/static/js/2.cc368304.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/englishleaning2.0/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45b8f19f.js",
+    "static/js/2.cc368304.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.28b97cf8.chunk.js"
+  ]
+}
